@@ -1,7 +1,4 @@
 # 🔍 Nettoyeur de Code Obfusqué
-
-Un outil simple de **déobfuscation statique** de scripts Python
-
 ---
 
 ## 📌 Description
@@ -67,8 +64,8 @@ sudo apt install python3-tk
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-utilisateur/nettoyeur-code-obfusque.git
-cd nettoyeur-code-obfusque
+git https://github.com/Lilianjerahmeel/Nettoyeur_code_obfusquer.git
+cd Nettoyeur_code_obfusquer
 
 # Lancer l'interface
 python main.py
