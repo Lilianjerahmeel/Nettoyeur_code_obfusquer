@@ -64,7 +64,7 @@ sudo apt install python3-tk
 
 ```bash
 # Cloner le dépôt
-git https://github.com/Lilianjerahmeel/Nettoyeur_code_obfusquer.git
+git https://github.com/lilian133/Nettoyeur_code_obfusquer.git
 cd Nettoyeur_code_obfusquer
 
 # Lancer l'interface
